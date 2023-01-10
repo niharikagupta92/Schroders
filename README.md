@@ -23,3 +23,5 @@ Starting from “A” here is an example of a sequence of 3 valid knight moves:
 “A” -> “L
 “L” -> “3”
 “3” -> “J”
+
+Output: Total number of valid 10 key sequences are: 1013398
